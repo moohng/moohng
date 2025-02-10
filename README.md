@@ -2,7 +2,25 @@
 
 搬了8年砖，前端的技能基本都会，后端硬上也行...
 
-没事儿的时候就喜欢瞎折腾，好像也没整出个啥名堂...
+周末陪老婆、陪孩子、偶尔打游戏...
+
+摸鱼的时候就瞎折腾一下...
 
 - 搞了一个[demo大杂烩项目](https://github.com/moohng/demo)，手痒时随便搞几下：[https://demo.codingmo.com](https://demo.codingmo.com)
-- 写了两个Chrome浏览器扩展：[Axure Location](https://github.com/moohng/axure-location-extension)和[Password Hint](https://github.com/moohng/password-hint-extension)
+- 个人博客[codingmo.com](https://codingmo.com)，看心情更新
+- 手搓了一个[NoApi项目](https://github.com/moohng/noapi)，根据接口文档快速生成api和ts类型定义代码，也提供了vscode插件
+- 写过两个Chrome浏览器扩展：[Axure Location](https://github.com/moohng/axure-location-extension)和[Password Hint](https://github.com/moohng/password-hint-extension)
+- svg压缩转换utools插件：[SVG压缩](https://github.com/moohng/utools-plugin-svg-vue)
+- 零依赖轻量化UI组件库：[@moohng/tui](https://github.com/moohng/tui)
+- 零依赖常用工具函数库：[@moohng/dan](https://github.com/moohng/dan)
+- 移动端适配PostCSS插件[@moohng/postcss-px2vw](https://github.com/moohng/postcss-px2vw)
+
+搞钱之路...
+
+- 2022年，上线了一款画图小程序，支持导出图片和视频，挣了第一笔副收入，日收入几分钱...
+- 2024年，上线【好幸运转盘】小程序，日收入提高到了几毛钱...
+- 太难了，还是好好搬砖挣钱吧
+
+拒绝加班和内卷、不追求高薪，在一家人吃饱穿暖的同时，能够做一些自己喜欢的事儿...
+
+最后，AI战未来！
